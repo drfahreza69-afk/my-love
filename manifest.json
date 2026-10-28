@@ -1,0 +1,10 @@
+{
+  "name": "REZA NEVERMIND \u2022 Sovereign Edition",
+  "short_name": "REZA NEVERMIND",
+  "description": "Ruang Personal, Disiplin Harian, Arsip Catatan DC, Galeri Visual & Jadwal Ibadah \u2014 Daffa Rifki Fahreza",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#090A0C",
+  "theme_color": "#090A0C",
+  "orientation": "portrait-primary"
+}

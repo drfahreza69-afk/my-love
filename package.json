@@ -1,0 +1,22 @@
+{
+  "name": "reza-nevermind",
+  "version": "2.0.0",
+  "description": "REZA NEVERMIND \u2014 Sovereign Personal Command & Editorial Workspace (GitHub & Railway Ready)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "keywords": [
+    "reza-nevermind",
+    "personal-workspace",
+    "habit-tracker",
+    "railway",
+    "github"
+  ],
+  "author": "Daffa Rifki Fahreza",
+  "license": "MIT"
+}
